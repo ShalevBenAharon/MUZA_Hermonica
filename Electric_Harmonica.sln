@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Electric_Harmonica", "Electric_Harmonica.vcxproj", "{2798CF99-E0B8-3444-893A-F4C96C0E438C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		MinSizeRel|x64 = MinSizeRel|x64
+		Release|x64 = Release|x64
+		RelWithDebInfo|x64 = RelWithDebInfo|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.Debug|x64.ActiveCfg = Debug|x64
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.Debug|x64.Build.0 = Debug|x64
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.MinSizeRel|x64.ActiveCfg = MinSizeRel|x64
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.MinSizeRel|x64.Build.0 = MinSizeRel|x64
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.Release|x64.ActiveCfg = Release|x64
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.Release|x64.Build.0 = Release|x64
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{2798CF99-E0B8-3444-893A-F4C96C0E438C}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95860D0D-A9E5-3D41-B039-80C327BDD415}
+	EndGlobalSection
+EndGlobal

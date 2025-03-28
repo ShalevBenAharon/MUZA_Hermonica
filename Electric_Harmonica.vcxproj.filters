@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\shale\Desktop\EHarmonica\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shale\Desktop\EHarmonica\src\Loger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shale\Desktop\EHarmonica\src\instrument.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shale\Desktop\EHarmonica\src\listenerTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shale\Desktop\EHarmonica\src\reciverTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\Loger.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\instrument.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\listenerTask.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\reciverTask.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\audio.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\event.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\gen.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\ladspa.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\log.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\midi.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\misc.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\mod.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\seq.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\seqbind.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\settings.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\sfont.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\shell.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\synth.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\types.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\version.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\shale\Desktop\EHarmonica\include\fluidsynth\voice.h">
+      <Filter>Header Files\fluidsynth</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{858C08B8-8228-3B33-8836-EDFF02FF6BEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CCABB590-1EB7-3378-8FB2-09CDAB297526}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\fluidsynth">
+      <UniqueIdentifier>{a97b11f1-9bbe-4479-a395-827701f43939}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
