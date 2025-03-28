@@ -1,0 +1,37 @@
+# Ignore build files
+/build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+CMakeLists.txt.cmake
+cmake_install.cmake
+
+# Ignore generated binaries and executable files
+*.exe
+*.out
+*.app
+
+# Ignore IDE configuration files
+.vscode/
+
+# Ignore any generated logs
+output.txt
+
+# Ignore compiled object files
+*.o
+*.a
+*.lib
+
+# Ignore temporary files created by editors or IDEs
+*.swp
+*.bak
+*.tmp
+*~
+.DS_Store
+bin/
+/include/fluidsynth
+lib/
+out/*
+*.tlog
+/Electric_hermonica.dir/*
